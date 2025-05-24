@@ -1,0 +1,8 @@
+# Ignore log files
+*.log
+
+# Ignore temp files
+temp.txt
+
+# Ignore secret environment files
+*.env
